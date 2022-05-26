@@ -22,5 +22,5 @@ A collection of awesome C# articles.
 
 
 ## Principles
-- [Principle Of Least Surprise (PLS).](https://user-images.githubusercontent.com/69135623/169850290-16ec3121-7da3-4a30-b4db-f1266b304af3.png)
+- [OOD Principle Language.](http://principles-wiki.net/collections:ood_principle_language)
 
