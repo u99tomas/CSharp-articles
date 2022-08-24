@@ -15,4 +15,5 @@
 [Adapter Design Pattern In C#](https://www.c-sharpcorner.com/UploadFile/efa3cf/adapter-design-pattern-in-C-Sharp/)  
 [Proxy Design Pattern Using C#](https://www.c-sharpcorner.com/UploadFile/b1df45/proxy-design-pattern-using-C-Sharp/)  
 [Singleton Design Pattern In C#](https://www.c-sharpcorner.com/UploadFile/8911c4/singleton-design-pattern-in-C-Sharp/)  
-[	State Design Pattern](https://www.c-sharpcorner.com/UploadFile/ff2f08/state-design-pattern/)  
+[State Design Pattern](https://www.c-sharpcorner.com/UploadFile/ff2f08/state-design-pattern/)  
+[How to make hard decisions quickly](https://blog.rescuetime.com/make-decisions-quickly/)
